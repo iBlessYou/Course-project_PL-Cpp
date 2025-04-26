@@ -1,0 +1,14 @@
+21  29  05  2005    Chernikov A.U.
+33  01  01  2001    Pavlov E.A.
+14  03  12  2003    Korshak E.P.
+234 23  09  2005    Burikov A.S. 
+2   13  02  2015    Mardanov R.R.
+1   15  08  2010    Kanavina K.A.
+99  28  06  2002    Abramov V.A.
+67  10  10  2016    Ivanov K.A.
+124 02  01  2001    Budilov I.K.
+87  25  07  2021    Vahitov R.R.
+1   15  08  2010    Korshak E.P.
+33  01  01  2001    Kovrigina A.A.
+124 03  12  2003    Abramov V.A.
+97  29  05  2005    Chernikov A.U.
